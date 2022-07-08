@@ -38,7 +38,7 @@ namespace Hello.Operators
             int number1 = Convert.ToInt32(num1);
             int number2 = Convert.ToInt32(num2);
             int result1,result2;
-            StringBuilder sb = new("\tUnary Operator\n*************Increment************\n");
+            StringBuilder sb = new("\n");
             result1 = number1++;
             sb.AppendLine($"Post Increment: number is {number1} and result is {result1}");
 
