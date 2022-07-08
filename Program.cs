@@ -2,34 +2,7 @@
 using Hello;
 using Hello.DataTypes;
 using Hello.Operators;
-/*
-Console.WriteLine("Enter the first number:");
-string number1 = Console.ReadLine();
-Console.ReadKey();
-Console.WriteLine("Enter the second number:");
-string number2 = Console.ReadLine();
-Console.ReadKey();
-Console.WriteLine(Arithmetic.GetArithmetic(number1,number2));
-Console.ReadKey();
-Console.WriteLine(Arithmetic.GetIncrement());
-Console.ReadKey();
-Console.WriteLine(Arithmetic.GetDecrement());
-Console.ReadKey();
 
-Console.WriteLine(Assignment.GetAssignment());
-Console.ReadKey();
-
-Console.WriteLine(Relational.GetRelational());
-Console.ReadKey();
-
-Console.WriteLine(Logical.GetLogical());
-Console.ReadKey();
-
-Console.WriteLine(Bitwise.GetBitwise());
-Console.ReadKey();
-
-Console.WriteLine(Miscellaneous.GetMisc());
-*/
 namespace Hello
 {
     class Program
